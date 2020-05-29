@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raytracing", "Raytracing\Raytracing.vcxproj", "{4C492D5E-6460-4014-82DA-0E5DB9E81330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C492D5E-6460-4014-82DA-0E5DB9E81330}.Debug|x64.ActiveCfg = Debug|x64
+		{4C492D5E-6460-4014-82DA-0E5DB9E81330}.Debug|x64.Build.0 = Debug|x64
+		{4C492D5E-6460-4014-82DA-0E5DB9E81330}.Release|x64.ActiveCfg = Release|x64
+		{4C492D5E-6460-4014-82DA-0E5DB9E81330}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52ED6B8B-EEDF-4A16-9970-B93B1E5755F0}
+	EndGlobalSection
+EndGlobal
